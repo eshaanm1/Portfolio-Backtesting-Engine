@@ -1,2 +1,2 @@
 # Portfolio-Backtesting-Engine
-Built a quantitative portfolio backtesting engine in Python, analyzing a personal 5-stock allocation (NVDA, AMZN, AVGO, XOM, PG) against the S&amp;P 500 using Sharpe ratio, alpha/beta, and 10,000-trial Monte Carlo simulation. Backtested returns informed my real $1,050 investment. Published on GitHub.
+I built a quantitative backtesting engine for a personal five-stock portfolio I made up of stocks NVDA, AMZN, AVGO, XOM, and PG versus the S & P 500 index. Using an engine written in Python, I used the Sharpe ratio, alphas, betas, and Monte Carlo to compare performance over a 10,000-trial run. Those results were used to fund a real $1,050 investment
